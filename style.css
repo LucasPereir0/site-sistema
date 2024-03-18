@@ -1,0 +1,16 @@
+body{
+    background-color: cornflowerblue;
+    color: white;
+    font-family: Verdana, sans-serif;
+}
+a{
+    color: white;
+    text-decoration: none;
+
+}
+
+a:hover{
+    cursor: pointer;
+    background-color: darkcyan;
+    font-size: 1.2rem;
+}
